@@ -4,4 +4,4 @@ The Research-Questions-Exploration repository provides a platform for me to log 
 
 Topics:
 
-[Information Retrieval](https://docs.google.com/document/d/1swPuzXEyx6UvmaQtjEEQIYO6LN38quJInSHY1Y5IXhY/edit#heading=h.8ifgwrp39pr)
+[Information Retrieval](https://docs.google.com/document/d/1swPuzXEyx6UvmaQtjEEQIYO6LN38quJInSHY1Y5IXhY/edit?usp=sharing)
