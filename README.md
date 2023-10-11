@@ -6,4 +6,4 @@ Topics:
 
  -  [Information Retrieval](https://docs.google.com/document/d/1swPuzXEyx6UvmaQtjEEQIYO6LN38quJInSHY1Y5IXhY/edit?usp=sharing)
 
- -  [Back Translation](https://docs.google.com/document/d/1K5zPymfH-PfDlJBxqdSHsvMBY7Fb_Dw7WxgBoKFNUIM/edit?usp=sharing)
+ -  [BackTranslation](https://docs.google.com/document/d/1K5zPymfH-PfDlJBxqdSHsvMBY7Fb_Dw7WxgBoKFNUIM/edit?usp=sharing)
