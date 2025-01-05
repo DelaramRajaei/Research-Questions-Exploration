@@ -10,4 +10,4 @@ The Research-Questions-Exploration repository is a dynamic platform for capturin
 ### Techniques and Methods
  -  [BackTranslation](https://docs.google.com/document/d/1K5zPymfH-PfDlJBxqdSHsvMBY7Fb_Dw7WxgBoKFNUIM/edit?usp=sharing)
  -  [RAG Fusion](https://docs.google.com/document/d/1ii6VRtnO3UYUneG-zfvMvlq_Ri0AzIEn6nsOJODgvA4/edit?usp=sharing)
-    -  [RAG vs RAG Fusion (Slides)](https://docs.google.com/document/d/1ii6VRtnO3UYUneG-zfvMvlq_Ri0AzIEn6nsOJODgvA4/edit?usp=sharing)
+    -  [RAG vs RAG Fusion (Slides)](https://docs.google.com/presentation/d/1ERTTUtS6AFoIujmX7Mk9zxKJIxHizCGT/edit?usp=drive_link&ouid=116292731183724143394&rtpof=true&sd=true)
