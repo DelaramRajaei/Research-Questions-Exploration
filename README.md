@@ -4,7 +4,7 @@ The Research-Questions-Exploration repository is a dynamic platform for capturin
 
 ### Core Topics:
  -  [Machine Learning](https://docs.google.com/document/d/1Dv2YhQX6nN_G8EXl-YX04fuhzhWBrbZWdgbSahU2hiw/edit?usp=sharing)
- -  [Information Retrieval](https://docs.google.com/document/d/1swPuzXEyx6UvmaQtjEEQIYO6LN38quJInSHY1Y5IXhY/edit?usp=sharing)
+ -  [Information Retrieval](https://docs.google.com/document/d/1swPuzXEyx6UvmaQtjEEQIYO6LN38quJInSHY1Y5IXhY/edit?usp=sharing) ([Slides](https://docs.google.com/presentation/d/1hBQJHsfQ7VX7oUp-V02MB-39aPXpKpqA/edit?usp=drive_link&ouid=116292731183724143394&rtpof=true&sd=true))
  -  [Computer Vision](https://docs.google.com/document/d/1CVLn8rz_9eBd3K4yQn0DLhb79q4VxGQB64FrUBtYbus/edit?usp=sharing)
 
 ### Techniques and Methods
